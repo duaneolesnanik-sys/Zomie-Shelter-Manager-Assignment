@@ -1,0 +1,9 @@
+{
+    "shelter_name": "Jimmy",
+    "leader": "Johomothy bart",
+    "survivors": 4,
+    "food": 9000,
+    "water": 12,
+    "barricade_health": 100,
+    "radio_working": false
+}
