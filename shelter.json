@@ -1,9 +1,9 @@
 {
-    "shelter_name": "Jimmy",
-    "leader": "Johomothy bart",
+    "shelter_name": "The Coolest Shelter Ever",
+    "leader": "Alex",
     "survivors": 4,
-    "food": 9000,
-    "water": 12,
-    "barricade_health": 100,
+    "food": 40,
+    "water": 30,
+    "barricade_health": 75,
     "radio_working": false
 }
